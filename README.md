@@ -1,6 +1,7 @@
 # Support de cours pour la formation python dans l'école doctorale NSCO 2017
 
 Ce dépot contient:
+  * une notice d'installation
   * les exercices.
   * les exercices corrigés.
   * une présentation très générale

@@ -10,7 +10,7 @@ Mardi 25 avril 2017 (matin et après-midi)
 
 Mercredi 26 avril 2017 (matin)
   *  Manipulation de fichiers: os, glob, re
-  *Cas pratiques
+  * Cas pratiques
   
 Jeudi 27 avril 2017 (matin):
   * Pandas (manipulation de dataframe + Titanic dataset)
