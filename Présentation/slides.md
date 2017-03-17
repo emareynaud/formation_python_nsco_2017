@@ -39,13 +39,13 @@
 
 # Pour anticiper les réclamantions
 
-  * ça va aller un trop vite
-  * les support de court sont légers.
+  * ça va aller un peu trop vite
+  * les supports de court sont légers.
   * tout ne va pas vous être utile.
 
 # En revanche:
 
-  * il existe de très bon support de court
+  * il existe de très bons supports de cours
   * les formateurs sont des beaux gosses
 
 
@@ -53,17 +53,17 @@
 
 # Historique
 
-  * Créer en 1989 par Guido Van Rossum.
+  * Créé en 1989 par Guido Van Rossum.
   * Version 1.5 en 1999
   * Aujourd'hui 3.6
   * Debut du python scientifique en 2005 par Travis Oliphant avec numpy
   * Aujourd'hui 6e language
-  * Aujourd'hui 1er language pour l'analyse de donnée.
+  * Aujourd'hui 1er language pour l'analyse de données.
 
 ------------------
 
 # Pourquoi python:
-  * language ancien donc mur
+  * language ancien donc mûr
   * language généraliste
   * language orienté object
   * philosophie = simplicité de relecture du code.
@@ -71,8 +71,8 @@
   * libre
   * grande commmunauté
   * facile à enseigner
-  * y'a tout
-  * communauté qui fait dons de ses codes.
+  * très complet
+  * communauté qui fait don de ses codes.
 
 
 ------------------
@@ -89,12 +89,12 @@
 
 # Idée en vrac
 
-  * un language **inteprété**
+  * un language **interprété**
   * Pas d'environement de développement, éditeur, debuggeur (il faut en trouver un, spyder pour nous)
-  * Peu de librairie officielle
-  * les modules scientifique sont developées indépendement
-  * Il existe plusieur interpréteur (CPython, IronPython, PyPy, Jython)
-  * On utilise le plus connu CPython
+  * Peu de librairies officielles
+  * les modules scientifiques sont developpés indépendemment
+  * Il existe plusieurs interpréteurs (CPython, IronPython, PyPy, Jython)
+  * On utilise le plus connu : CPython
 
 
 ------------------
@@ -103,11 +103,11 @@
 
 # C'est pas si facile car:
 
-  * Il y a plusieurs version 2.7 et 3.5, 3.6, on ne sait pas laquelle choisir.
-  * Sous OSX et linux c'est déjà installé masi c'est souvent pas la bonne version
-  * Il faut aussi installer toute les librairies dont on a besoin
-  * les libairie scientifique sont en C/C++/fortran il faut un compilateurs!!
-  * python fournit un installateur de pacquet officiel pip (site pypi) mais ça marche pas quand c'est compilé.
+  * Il y a plusieurs versions 2.7 et 3.5, 3.6, on ne sait pas laquelle choisir.
+  * Sous OSX et linux c'est déjà installé mais c'est souvent pas la bonne version
+  * Il faut aussi installer toutes les librairies dont on a besoin
+  * Les libairies scientifiques sont en C/C++/Fortran il faut un compilateurs!!
+  * Python fournit un installateur de paquet officiel pip (site pypi) mais ça marche pas quand c'est compilé.
   * parfois c'est sur github
   * arbre de dépendance complexe.
 
@@ -138,12 +138,12 @@
 
   * c'est déjà installé
   * python (=python2) et python3 (=python3.4)
-  * certain paquet avec:
+  * certains paquets avec:
     ```
       sudo apt-get install python-numpy
       sudo apt-get install python3-numpy
     ```
-  * d'autre avec :
+  * d'autres avec :
     ```
       pip install numpy
       pip3 install numpy
@@ -155,7 +155,7 @@
 # Environement virtuel
 
   * permet pour chaque projet de choisir une version de python + chaque librairie
-  * conda intègre les environement virtuel
+  * conda intègre les environnements virtuels
 
 
 ------------------
